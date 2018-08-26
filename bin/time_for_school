@@ -30,4 +30,4 @@ steve.learn(more_knowledge)
 woodrow.learn(some_knowledge)
 woodrow.learn(more_knowledge)
 
-puts "Steve learned: '#{steve.knowledge.last}' from Avi. Woodrow learned: '#{woodrow.knowledge.first}' from Avi"
+puts "Steve learned: '#{steve.knowledge.last}' from Avi. Woodrow learned: '#{woodrow.knowledge.first}' from Avi."
